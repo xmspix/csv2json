@@ -1,0 +1,17 @@
+{
+  "name": "csv2json",
+  "version": "1.0.0",
+  "description": "Convert any csv to json",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "csv",
+    "json",
+    "csv2json"
+  ],
+  "author": "Mark Stoler",
+  "license": "MIT",
+  "dependencies": {}
+}
